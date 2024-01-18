@@ -1,7 +1,7 @@
 var n = 5;
 count = 0;
 flag = true;
-for(var i=0; i<n;i++){
+for(var i=1; i<=n;i++){
     if(n%i==0){
         count++;
     }
